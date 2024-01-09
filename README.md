@@ -1,3 +1,4 @@
+![](https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_ov6razBJ961qzop1co2_500.gif)
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
 <h3 align="center">A dedicated tech enthusiast from Bangladesh with a fervent passion for continuous learning</h3>
 <img align="right" alt="coding"width="400"src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad">
