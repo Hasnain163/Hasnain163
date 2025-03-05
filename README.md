@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain163&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain163" /> </p>
 
-- 🌱 I’m currently learning **GUI,JavaFx**
+- 🌱 I’m currently learning **PHP, Javascript, MySQl**
 
 - 📫 How to reach me **antorahmed120612@gmail.com**
 
