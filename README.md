@@ -1,26 +1,65 @@
-![](https://media.tenor.com/4RYbGa1GttQAAAAd/lofi-browsing.gif)
-<h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">A dedicated tech enthusiast from Bangladesh with a fervent passion for continuous learning</h3>
-<img align="right" alt="coding"width="400"src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad">
+# Hi 👋, I'm Hasnain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain163&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain163" /> </p>
+<img align="right" alt="coding" width="380" src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad">
 
-- 🌱 I’m currently learning **PHP, Javascript, MySQl**
+---
 
-- 📫 How to reach me **antorahmed120612@gmail.com**
+### 👨‍💻 About Me
+-  Currently learning **PHP, JavaScript, MySQL**
+-  Interested in **Web Development & Cybersecurity**
+-  Reach me at **antorahmed120612@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/hasnain-ahmed-7047b7377/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antor_ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_jk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hasnain-ahmed-7047b7377/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ahmed_jk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnain163&show_icons=true&locale=en&layout=compact" alt="hasnain163" /></p>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,php,js,html,css,mysql,github&perline=5" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnain163&show_icons=true&locale=en" alt="hasnain163" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain163&" alt="hasnain163" /></p>
+### 🚀 Featured Projects
+- [Portfolio Website](https://github.com/hasnain163/portfolio) — A responsive personal portfolio built with HTML, CSS, and JavaScript.
+- [Cybersecurity Toolkit](https://github.com/hasnain163/security-tools) — Scripts and resources for basic security testing.
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnain163&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain163&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnain163&show_icons=true&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnain163&theme=tokyo-night" width="90%" />
+</p>
+
+---
+
+### 🎯 Badges
+![Learning PHP](https://img.shields.io/badge/Learning-PHP-blue)
+![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+⭐ *Thanks for visiting my profile — feel free to explore my repositories!*  
+> *“Code is like humor. When you have to explain it, it’s bad.”*
